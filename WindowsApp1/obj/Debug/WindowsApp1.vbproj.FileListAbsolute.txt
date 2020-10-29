@@ -1,0 +1,198 @@
+C:\Users\Alumno\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Alumno\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Alumno\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Alumno\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Alumno\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Alumno\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Alumno\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Alumno\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Alumno\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+F:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+F:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+F:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+F:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+F:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+F:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+F:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+F:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+F:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+F:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+F:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+F:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+G:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+G:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+G:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+G:\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+G:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+G:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+G:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+G:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+G:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+G:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+G:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+G:\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+F:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+F:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+F:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+F:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+F:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+F:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+F:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+F:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+F:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+F:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+F:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+F:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+G:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+G:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+G:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+G:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+G:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+G:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+G:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+G:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+G:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+G:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+G:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+G:\LEARN\CLASS\IFP\DATABASE\WORKS\nuevo\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Generos.resources
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Personas.resources
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.VerPersonas.resources
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Datos.resources
+C:\Users\NaXeTons\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Menu_Gestionar.resources
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Datos.resources
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Generos.resources
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Personas.resources
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Menu_Gestionar.resources
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.VerPersonas.resources
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Alumno\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Roles.resources
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Datos.resources
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Generos.resources
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Personas.resources
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Roles.resources
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Menu_Gestionar.resources
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.VerPersonas.resources
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Datos.resources
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Generos.resources
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Personas.resources
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Roles.resources
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Menu_Gestionar.resources
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.VerPersonas.resources
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.ModificarRoles.resources
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.ModificarRoles.resources
+C:\Users\Alumno\Desktop\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.ModificarPeliculas.resources
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.ModificarPeliculas.resources
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.ModificarPersonas.resources
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Datos.resources
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Generos.resources
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Personas.resources
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Roles.resources
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Menu_Gestionar.resources
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.ModificarPeliculas.resources
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.ModificarPersonas.resources
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.ModificarRoles.resources
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.VerPersonas.resources
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+F:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.ModificarGeneros.resources
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Datos.resources
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Generos.resources
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Personas.resources
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Gestionar_Roles.resources
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Menu_Gestionar.resources
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.ModificarGeneros.resources
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.ModificarPeliculas.resources
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.ModificarPersonas.resources
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.ModificarRoles.resources
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.VerPersonas.resources
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+G:\Visual trabajo final\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
